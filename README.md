@@ -34,6 +34,15 @@ I am an aspiring entry-level cybersecurity professional based in Coimbatore, Ind
 
 ---
 
+### 📜 Credentials In-Progress
+| Certification / Credential | Issuing Organization | Verification Link |
+| :--- | :--- | :--- | 
+| **CEH Certified Ethical Hacker** | EC-Council | [Verify Credential](PASTE_YOUR_AI_NUGGETS_LINK_HERE) |
+| **Cybersecurity and Ethical Hacking** | Guvi | [Verify Credential](PASTE_YOUR_AI_NUGGETS_LINK_HERE) |
+| **Python Essentials** | Cisco | [Verify Credential](PASTE_YOUR_AI_NUGGETS_LINK_HERE) |
+
+---
+
 ### 📂 Cybersecurity Projects
 
 #### 🛑 Offensive Security & Network Reconnaissance 

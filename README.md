@@ -8,7 +8,7 @@ I am an aspiring entry-level cybersecurity professional based in Coimbatore, Ind
 ### 🚀 Quick Overview
 - 💼 **Recent Experience:** Intern System Administrator at T&I Projects Limited
 - 🎓 **Education:** B.Sc. in Computer Science (KPR College of Arts Science & Research)
-- 🎯 **Current Focus:** Studying for the **CompTIA Security+ Certification** to further validate my security skills.
+- 🎯 **Current Focus:** Studying for the **CEH Certification** to further validate my security skills.
 - 💬 **Ask me about:** Network reconnaissance, packet analysis, or why the Principle of Least Privilege is a non-negotiable.
 
 ---

@@ -30,16 +30,16 @@ I am an aspiring entry-level cybersecurity professional based in Coimbatore, Ind
 | :--- | :--- | :--- |
 | **Ethical Hacker** | Cisco | https://www.credly.com/badges/1dc6334e-82fb-44e0-aa82-c08afed5a2e6/public_url
 | **Cybersecurity Professional Certificate** | Google | https://coursera.org/share/34899de4ff8a105f202c3200a23e6438 |
-| **AI Security Nuggets** | Cisco | [Verify Credential](PASTE_YOUR_AI_NUGGETS_LINK_HERE) |
+| **AI Security Nuggets** | Cisco | 
 
 ---
 
 ### 📜 Credentials In-Progress
 | Certification / Credential | Issuing Organization | Verification Link |
 | :--- | :--- | :--- | 
-| **CEH Certified Ethical Hacker** | EC-Council | [Verify Credential](PASTE_YOUR_AI_NUGGETS_LINK_HERE) |
-| **Cybersecurity and Ethical Hacking** | Guvi | [Verify Credential](PASTE_YOUR_AI_NUGGETS_LINK_HERE) |
-| **Python Essentials** | Cisco | [Verify Credential](PASTE_YOUR_AI_NUGGETS_LINK_HERE) |
+| **CEH Certified Ethical Hacker** | EC-Council | 
+| **Cybersecurity and Ethical Hacking** | Guvi | 
+| **Python Essentials** | Cisco | 
 
 ---
 

@@ -34,7 +34,7 @@ I am an aspiring entry-level cybersecurity professional based in Coimbatore, Ind
 
 ---
 
-### 📂 Featured Cybersecurity Projects
+### 📂 Cybersecurity Projects
 
 #### 🛑 Offensive Security & Network Reconnaissance 
 * **Description:** Conducted active and passive reconnaissance within simulated enterprise environments using **Nmap**, **Whois**, and **Shodan** to map out open ports and service versions.
